@@ -101,17 +101,6 @@ I'm a **Data Analyst** passionate about transforming raw data into meaningful in
 
 </p>
 
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nidhi0018&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi0018&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
