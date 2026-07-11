@@ -67,19 +67,6 @@ I'm a passionate **Data Analyst** and **Machine Learning Enthusiast** who enjoys
   <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-## 🚀 Featured Projects
-
-### 📈 Demand Forecasting
-
-Retail demand forecasting using **Machine Learning**, **Time Series Analysis**, and **Streamlit**. The project predicts future product demand using historical sales data to support inventory planning and business decision-making.
-
-### 📊 Superstore Sales Dashboard
-
-Interactive **Power BI Dashboard** integrated with **SQL** to analyze sales performance, customer behavior, regional trends, and key business KPIs through dynamic visualizations.
-
-### ❤️ Heart Disease Predictor
-
-Machine Learning classification model that predicts the likelihood of heart disease using patient medical records. Includes data preprocessing, feature engineering, model evaluation, and performance comparison.
 
 ---
 
